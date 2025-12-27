@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="AI penetration activities summary">
+  <rect width="1200" height="675" fill="#f8fafc" />
+  <rect x="70" y="70" width="1060" height="535" rx="24" fill="#ffffff" stroke="#e2e8f0" />
+  <text x="110" y="150" fill="#0f172a" font-size="40" font-family="Arial, sans-serif" font-weight="700">Top 10 Activities With AI Penetration</text>
+  <text x="110" y="205" fill="#475569" font-size="22" font-family="Arial, sans-serif">Highest and lowest usage categories (visual reference).</text>
+  <text x="110" y="285" fill="#0f172a" font-size="24" font-family="Arial, sans-serif" font-weight="600">Highlights</text>
+  <text x="110" y="330" fill="#475569" font-size="20" font-family="Arial, sans-serif">Writing support, coding projects, presentations, and research.</text>
+  <text x="110" y="430" fill="#0f172a" font-size="24" font-family="Arial, sans-serif" font-weight="600">Lowest adoption</text>
+  <text x="110" y="475" fill="#475569" font-size="20" font-family="Arial, sans-serif">Healthcare navigation, staying in touch, and workout planning.</text>
+  <text x="110" y="560" fill="#94a3b8" font-size="18" font-family="Arial, sans-serif">Source: Menlo Ventures (2025) infographic screenshot.</text>
+</svg>
