@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="AI Product Management 101 resources">
+  <rect width="1200" height="675" fill="#1e3a8a" />
+  <rect x="70" y="70" width="1060" height="535" rx="24" fill="#0f172a" stroke="#1e40af" />
+  <text x="110" y="150" fill="#e0f2fe" font-size="42" font-family="Arial, sans-serif" font-weight="700">AI Product Management 101</text>
+  <text x="110" y="205" fill="#bfdbfe" font-size="24" font-family="Arial, sans-serif">14 high-quality PDFs to learn visually</text>
+  <text x="110" y="300" fill="#e0f2fe" font-size="22" font-family="Arial, sans-serif">Includes: AI PM roadmap, agent architectures, RAG, evals, metrics.</text>
+  <text x="110" y="560" fill="#93c5fd" font-size="18" font-family="Arial, sans-serif">Source: curated PDF collection screenshot.</text>
+</svg>

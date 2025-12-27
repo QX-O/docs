@@ -35,6 +35,41 @@
         ]
       },
       {
+        "tab": "AI Library",
+        "groups": [
+          {
+            "group": "Learning Roadmap",
+            "pages": [
+              "ai/roadmap"
+            ]
+          },
+          {
+            "group": "Market Insights",
+            "pages": [
+              "ai/ai-penetration"
+            ]
+          },
+          {
+            "group": "Product Management",
+            "pages": [
+              "ai/product-management-101"
+            ]
+          },
+          {
+            "group": "Ethics Notes",
+            "pages": [
+              "ai/ethical-principles"
+            ]
+          },
+          {
+            "group": "Agent Evolution",
+            "pages": [
+              "ai/ai-agent-evolution"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "API Reference",
         "groups": [
           {

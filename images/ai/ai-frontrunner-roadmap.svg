@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="AI Frontrunner roadmap overview">
+  <rect width="1200" height="675" fill="#0f172a" />
+  <rect x="80" y="80" width="1040" height="515" rx="24" fill="#111827" stroke="#1f2937" />
+  <text x="120" y="160" fill="#e2e8f0" font-size="40" font-family="Arial, sans-serif" font-weight="700">AI Frontrunner Roadmap</text>
+  <text x="120" y="220" fill="#94a3b8" font-size="22" font-family="Arial, sans-serif">Overview snapshot of curriculum categories and milestones.</text>
+  <text x="120" y="300" fill="#e2e8f0" font-size="24" font-family="Arial, sans-serif" font-weight="600">Sections</text>
+  <text x="120" y="340" fill="#cbd5f5" font-size="20" font-family="Arial, sans-serif">Introduction • Foundational Knowledge • Context Management • Prompt Engineering</text>
+  <text x="120" y="420" fill="#94a3b8" font-size="18" font-family="Arial, sans-serif">Used as a visual reference for the extracted text below.</text>
+</svg>
