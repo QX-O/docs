@@ -1,71 +1,55 @@
 ---
-title: Introduction
-description: "Welcome to the home of your new documentation"
+title: Ideas & Scripture Notebook
+description: "A searchable home for ideas, Bible verses, reflections, and study notes."
 ---
 
-<img
-  className="block dark:hidden"
-  src="/images/hero-light.png"
-  alt="Hero Light"
-/>
-<img
-  className="hidden dark:block"
-  src="/images/hero-dark.png"
-  alt="Hero Dark"
-/>
+# Ideas & Scripture Notebook
 
-## Setting up
+Welcome. This site is a Mintlify-powered knowledge base that you can use to collect ideas, Bible verses, study notes, reflections, and reusable writing templates.
 
-The first step to world-class documentation is setting up your editing environments.
+<Note>
+  This repo started as the Mintlify starter kit. The most important files for your personal notebook are `docs.json`, `index.mdx`, `ideas/index.mdx`, `scripture/index.mdx`, and the templates in `templates/`.
+</Note>
+
+## Start here
 
 <CardGroup cols={2}>
-  <Card
-    title="Edit Your Docs"
-    icon="pen-to-square"
-    href="https://mintlify.com/docs/quickstart"
-  >
-    Get your docs set up locally for easy development
+  <Card title="Ideas" icon="lightbulb" href="/ideas">
+    Capture project concepts, writing topics, ministry ideas, product thoughts, and questions worth exploring.
   </Card>
-  <Card
-    title="Preview Changes"
-    icon="image"
-    href="https://mintlify.com/docs/development"
-  >
-    Preview your changes before you push to make sure they're perfect
+  <Card title="Scripture" icon="book-bible" href="/scripture">
+    Keep Bible verse notes organized by reference, theme, context, and personal reflection.
+  </Card>
+  <Card title="Quickstart" icon="rocket" href="/quickstart">
+    Learn the simple workflow for adding new notes and keeping the navigation updated.
+  </Card>
+  <Card title="Development" icon="terminal" href="/development">
+    Preview the site locally with the Mintlify CLI before publishing changes.
   </Card>
 </CardGroup>
 
-## Make it yours
+## Generated repo index
 
-Update your docs to your brand and add valuable content for the best user conversion.
+| Section | Path | What it is for |
+| --- | --- | --- |
+| Home | `/index.mdx` | Main landing page and high-level directory. |
+| Ideas | `/ideas/index.mdx` | Index for creative, personal, project, or ministry ideas. |
+| Scripture | `/scripture/index.mdx` | Index for Bible verse notes, study notes, and devotion themes. |
+| Templates | `/templates/idea-note.mdx`, `/templates/verse-note.mdx` | Copy these when creating new notes. |
+| Setup | `/quickstart.mdx`, `/development.mdx` | How to write, preview, and maintain the site. |
+| Mintlify examples | `/essentials/*` | Reference examples for Markdown, images, navigation, settings, and reusable snippets. |
+| API examples | `/api-reference/*` | Starter API docs from the template; safe to remove if you do not need API documentation. |
 
-<CardGroup cols={2}>
-  <Card
-    title="Customize Style"
-    icon="palette"
-    href="https://mintlify.com/docs/settings/global"
-  >
-    Customize your docs to your company's colors and brands
-  </Card>
-  <Card
-    title="Reference APIs"
-    icon="code"
-    href="https://mintlify.com/docs/api-playground/openapi"
-  >
-    Automatically generate endpoints from an OpenAPI spec
-  </Card>
-  <Card
-    title="Add Components"
-    icon="screwdriver-wrench"
-    href="https://mintlify.com/docs/content/components/accordions"
-  >
-    Build interactive features and designs to guide your users
-  </Card>
-  <Card
-    title="Get Inspiration"
-    icon="stars"
-    href="https://mintlify.com/customers"
-  >
-    Check out our showcase of our favorite documentation
-  </Card>
-</CardGroup>
+## Is this a good fit for your goal?
+
+Yes, this is a good foundation if you want your ideas and Bible notes to become a clean, searchable website. It is better than a loose notes folder when you want structure, navigation, reusable templates, and a polished reading experience.
+
+It may not be the best fit if you want a private daily journal, encrypted notes, or a fast mobile-first capture app. In that case, use this repo as the polished archive and keep raw private notes somewhere else.
+
+## Recommended next changes
+
+1. Rename the site in `docs.json` once you choose a name.
+2. Replace the starter logo and favicon.
+3. Remove the `api-reference/` folder if you do not plan to document an API.
+4. Add your first real note under `ideas/` or `scripture/`.
+5. Keep the templates and update them as your style develops.

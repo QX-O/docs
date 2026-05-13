@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Ideas & Scripture Notebook",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,16 +11,40 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Notebook",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Start Here",
             "pages": [
               "index",
               "quickstart",
               "development"
             ]
           },
+          {
+            "group": "Ideas",
+            "pages": [
+              "ideas/index"
+            ]
+          },
+          {
+            "group": "Scripture",
+            "pages": [
+              "scripture/index"
+            ]
+          },
+          {
+            "group": "Templates",
+            "pages": [
+              "templates/idea-note",
+              "templates/verse-note"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Mintlify Reference",
+        "groups": [
           {
             "group": "Essentials",
             "pages": [
@@ -31,21 +55,11 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "API Example",
             "pages": [
+              "api-reference/introduction",
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
@@ -82,14 +96,18 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Ideas",
+        "href": "/ideas"
+      },
+      {
+        "label": "Scripture",
+        "href": "/scripture"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Start writing",
+      "href": "/quickstart"
     }
   },
   "footer": {
