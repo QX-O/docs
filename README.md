@@ -1,32 +1,28 @@
-# Mintlify Starter Kit
+# Authority-Bible-XOQ
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Authority-Bible-XOQ is a spiritual teaching and documentation site for growing in biblical understanding, exploring biblical artifacts, and learning about God, the Old and New Testament, and most of all Jesus Christ.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+The site is designed as a place to showcase teaching materials so others can follow, review, and gain their own understanding of Scripture and faith.
 
-### Development
+## Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command:
 
-```
+```bash
 npm i -g mintlify
 ```
 
-Run the following command at the root of your documentation (where docs.json is)
+Run the following command at the root of the documentation, where `docs.json` is located:
 
-```
+```bash
 mintlify dev
 ```
 
-### Publishing Changes
+## Publishing changes
 
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
+Install the GitHub App for the deployment target to automatically publish changes after updates are pushed to the default branch.
 
-#### Troubleshooting
+## Troubleshooting
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+- If Mintlify dev is not running, run `mintlify install` to reinstall dependencies.
+- If a page loads as a 404, make sure you are running the command in the folder that contains `docs.json`.
