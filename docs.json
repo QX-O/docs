@@ -35,6 +35,26 @@
         ]
       },
       {
+        "tab": "Questions",
+        "groups": [
+          {
+            "group": "Extracted Study Questions",
+            "pages": [
+              "questions/index",
+              "questions/jesus-without-sin",
+              "questions/satan-delay-death-of-christ",
+              "questions/pride-before-fall",
+              "questions/sin-separates-from-god",
+              "questions/anger-foothold",
+              "questions/satan-use-dreams",
+              "questions/god-warns-where-satan-wars",
+              "questions/law-of-knowing",
+              "questions/good-works-and-posture"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "API Reference",
         "groups": [
           {
